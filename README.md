@@ -4,7 +4,7 @@ In response to an interview excercise, I created a project that showed my abilit
 
 > [!NOTE]
 > I used an API endpoint to retrieve the data, pandas to clean and munge, and bokeh to map inccidents. I also performed hypothesis testing and merged additional outside data. 
-The final deliverable was an annotated slidedeck, a narrative data-processing notebook, and an interactive visualization of crashes.
+The final deliverable was an [annotated slidedeck](https://github.com/Socjon/Transit_CaseStudy/blob/main/TransitDeck_notes.pdf), a [narrative data-processing notebook](https://github.com/Socjon/Transit_CaseStudy/blob/main/Transit_CodeV1.ipynb), and an interactive visualization of crashes.
 
 
 The data for this effort is sourced from Chicago Data Portal Traffic Crashes.
